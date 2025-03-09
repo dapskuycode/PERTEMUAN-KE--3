@@ -1,3 +1,9 @@
+/* Nama File    : AngkaSial.java
+ * Deskripsi    : contoh penerapan exception custom
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
 package Asersil;
 
 public class AngkaSial {
