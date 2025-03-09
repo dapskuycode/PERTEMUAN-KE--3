@@ -1,3 +1,10 @@
+/* Nama File    : Menu.java
+ * Deskripsi    : berisi method untuk class menu.
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
+
 package santapanEnak;
 
 public class Menu {
