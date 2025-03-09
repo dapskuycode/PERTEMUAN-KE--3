@@ -1,3 +1,10 @@
+/* Nama File    : Pesanan.java
+ * Deskripsi    : berisi method dari class pesanan.
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
+
 package santapanEnak;
 
 public class Pesanan {
