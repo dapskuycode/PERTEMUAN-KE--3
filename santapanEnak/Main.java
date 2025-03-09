@@ -1,3 +1,10 @@
+/* Nama File    : Main.java
+ * Deskripsi    : Driver utama untuk class yang ada di package ini
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
+
 package santapanEnak;
 
 import java.util.Scanner;
