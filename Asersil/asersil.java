@@ -1,3 +1,9 @@
+/* Nama File    : Asersil.java
+ * Deskripsi    : Program untuk menunjukkan asersi.
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
 package Asersil;
 
 public class asersil {
