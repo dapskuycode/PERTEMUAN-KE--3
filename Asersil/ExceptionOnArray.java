@@ -1,3 +1,9 @@
+/* Nama File    : ExceptionOnArray.java
+ * Deskripsi    : menangani error saat mengakses indeks array yang di luar batas dengan try-catch-finally.
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
 package Asersil;
 
 public class ExceptionOnArray {
