@@ -26,3 +26,9 @@ public class AngkaSial {
         }
     }
 }
+
+// JAWABAN :
+/*Ketika eksepsi terjadi pada pemanggilan as.cobaAngka(13), program langsung masuk ke blok catch,
+  sehingga baris 12 (as.cobaAngka(12);) tidak dieksekusi. 
+  Namun, baris 21 (System.out.println("hati hati memasukkan angka!!!");) tetap dieksekusi karena berada dalam blok catch,
+  yang menangani eksepsi yang terjadi sebelumnya.*/
