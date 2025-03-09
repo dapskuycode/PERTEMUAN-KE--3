@@ -1,3 +1,9 @@
+/* Nama File    : Tiket.java
+ * Deskripsi    : berisi method dari class tiket.
+ * Pembuat      : M. Daffa' Atstsaqif/24060123120039
+ * Tanggal      : 8 Maret 2025
+ */
+
 package Tiket;
 
 public class Tiket {
